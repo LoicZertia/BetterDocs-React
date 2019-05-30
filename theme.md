@@ -5,10 +5,10 @@ description: LifeKingdom est un serveur Minecraft de la 1.8 à la 1.13
 download:
 maintainer_name:
 contributor_name:
-github_profile_url: https://github.com/{Author Name}/
+github_profile_url: https://github.com/{Hackcraft}/
 github_source_url:
 github_issue_url:
-discord_server:
+discord_server: https://discord.gg/HWb3zre
 demo: https://raw.githack.com
 thumbnail:
 previews: [Direct link to image, Direct link to image]
