@@ -15,7 +15,7 @@ previews: [Direct link to image, Direct link to image]
 status:
 auto:
 snippet:
-featured: 
+featured: true
 style: dark
 tags: []
 ghcommentid: 441
